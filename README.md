@@ -31,3 +31,7 @@ To build a simple, interpretable machine learning model that can help identify a
 ## 📌 Note
 
 You must have the required libraries installed (`pip install -r requirements.txt`) to run the notebook.
+
+## 📁 Dataset
+- [Download Excel Dataset (Google Drive)](https://drive.google.com/drive/folders/1zEG2gec5AwLFsyr7g6c864RzVSs6_ftk?usp=sharing)
+
